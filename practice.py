@@ -15,7 +15,7 @@ def print_student_avg(student):
 
 # 배열(list)
 students = [
-    Student("노혀니", [80, 90, 85]),
+    Student("노혀니", [30, 40, 50]),
     Student("김노현", [70, 75, 80])
 ]
 
